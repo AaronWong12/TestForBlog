@@ -1,0 +1,8 @@
+---
+title: "R语言中文社区 Aaron"
+author: "Aaron Wong"
+date: '2018-09-20'
+slug: r语言中文社区-aaron
+tags: []
+categories: R
+---
